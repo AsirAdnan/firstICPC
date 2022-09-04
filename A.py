@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 case=1
 for i in range(int(input())):
     a=[int(i) for i in input().split()]
@@ -12,10 +6,3 @@ for i in range(int(input())):
     else:
         print(f"Case {case}: Fight")
     case+=1
-
-
-# In[ ]:
-
-
-
-
